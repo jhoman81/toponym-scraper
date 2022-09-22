@@ -1,2 +1,3 @@
 # toponym-scraper
-Simple script for scraping toponymic data from a public database
+
+This a simple script written in Python for scraping toponymic data from a public database.
